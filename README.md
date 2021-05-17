@@ -5,3 +5,6 @@ this file will contain information about using the resources for collaborative t
 
 Step 1
 - Create a corpus on the SketchEngine
+- download en / de resources from 
+- https://www.gnu.org/philosophy/free-sw.html#language-container
+- https://www.gnu.org/philosophy/free-sw.de.html
